@@ -1,0 +1,99 @@
+#case_priority{
+	border-radius:5px;
+}
+
+#case_priority_btn{
+	border-radius:5px;
+	background: #46b8da;
+	color:white;
+}
+
+
+.nepali-calendar{
+	border-radius:5px;
+}
+
+#update_status{
+	border-radius:5px;
+}
+
+#user{
+	border-radius:5px;
+	
+}
+
+#site{
+	border-radius:5px;
+}
+
+#remarks{
+	border-radius:10px;
+}
+
+.remarks_box{
+	display:block;
+}
+.remarks_box span{
+	display:inline;
+}
+
+.new_remarks_box{
+	display:block;
+	margin-top:5px;
+	margin-bottom: 5px;
+}
+
+.new_remarks_box span{
+	display:inline;
+	padding-top:5px;
+}
+
+.new_remarks_box span input{
+	display:inline;
+	margin-bottom:5px;
+}
+
+#site{
+	margin-right:2px;
+	margin-top:5px;
+}
+
+ #list_container
+{
+	background:rgba(255,255,255,.8);
+	border:1px solid #ccc;
+	margin:0 auto;
+	text-align:left;
+	width:80%;
+}
+
+.btn-update{
+   	background:#66cc00;
+	color:white;
+	padding: 6px 12px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.42857143;
+	border-radius:4px;
+	text-decoration:none;
+	border:1px solid transparent;	
+}
+
+.btn-update:hover{
+   	background:#669900;
+	color:white;
+	padding: 6px 12px;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.42857143;
+	border-radius:4px;
+	text-decoration:none;
+	border:1px solid #66cc66;
+}
+.assign_next_visit{
+	display:block;
+}
+
+.first_visit{
+	display:block;
+}
